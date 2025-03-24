@@ -1,4 +1,4 @@
-# -The-trends-in-data-science-job-postings---USA
+Data Science JOb Posting Trends 
 
 This Power BI dashboard is not just a data visualization tool — it’s a complete solution addressing a crucial question for students and early-career professionals:
 "What skills should I learn to secure a job and grow my career?"
